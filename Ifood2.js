@@ -6,7 +6,6 @@ if (itensColetados.includes(itemNecessario1) && itensColetados.includes(itemNece
     return "NAO PODE ENFRENTAR"
 }
 }
-
 const itensColetados = ['item1', 'item2', 'item3']; // Itens coletados
 const itemNecessario1 = 'item1'; // Item necessário 1
 const itemNecessario2 = 'item2'; // Item necessário 2
